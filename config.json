@@ -1,0 +1,15 @@
+{
+   "servers":[{
+        "host":"local-host", "port":3001
+    },
+    {
+        "host":"local-host", "port":3002
+    },
+    {
+        "host":"local-host", "port":3003
+    },
+    {
+        "host":"local-host", "port":3004
+    }
+]
+}
